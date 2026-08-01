@@ -12,8 +12,9 @@
 ## 💁 About me
 ![Profileviews](https://komarev.com/ghpvc/?username=LyapinAlexey&color=blue&style=flat)
 ```text
-Future Computer Science student
-Developing production-grade products since I was 13
+- 🎓 Future Computer Science student
+- ⚙️ Developing production‑grade products since I was 13
+- 💻 Passionate about backend development, CI/CD, and scalable systems
 ```
 
 ---
