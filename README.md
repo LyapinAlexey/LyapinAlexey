@@ -43,5 +43,6 @@ Passionate about backend development, DevOps, and algorithms.
 
 [![Email](https://img.shields.io/badge/Email-lehacomp16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lehacomp16@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@LyapinAlexey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LyapinAlexey)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-@LyapinAlex-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/79663103702)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexey%20Lyapin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lyapinalexey)
 [![GitHub](https://img.shields.io/badge/GitHub-LyapinAlexey-black?style=for-the-badge&logo=github)](https://github.com/LyapinAlexey)
