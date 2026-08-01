@@ -33,10 +33,10 @@
 ---
 
 ## 🤝 Contributions
-```text
-Open source contributor.
-Passionate about backend development, DevOps, and algorithms.  
-```
+
+- 🛠 Open source contributor (Python, Docker, SQLAlchemy, PostgreSQL)
+- ⚙️ Focused on backend architecture and CI/CD pipelines
+- 🌍 Helping build scalable and reliable systems for the community
 
 ---
 
