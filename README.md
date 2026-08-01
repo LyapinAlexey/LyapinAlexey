@@ -37,3 +37,11 @@ Open source contributor.
 Passionate about backend development, DevOps, and algorithms.  
 ```
 
+---
+
+## 📬 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-lehacomp16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lehacomp16@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@LyapinAlexey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LyapinAlexey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexey%20Lyapin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lyapinalexey)
+[![GitHub](https://img.shields.io/badge/GitHub-LyapinAlexey-black?style=for-the-badge&logo=github)](https://github.com/LyapinAlexey)
