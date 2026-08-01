@@ -1,6 +1,6 @@
 # Alexey Lyapin
 
-### 🐍 Backend Developer | Python | Flask | Docker | SQLAlchemy
+### 🐍 Backend Developer | Python | Flask | Docker | SQLAlchemy | Pytest 
 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 ![Docker](https://img.shields.io/badge/docker-ready-green)
@@ -11,8 +11,10 @@
 
 ## 💁 About me
 ![Profileviews](https://komarev.com/ghpvc/?username=LyapinAlexey&color=blue&style=flat)
+```text
 Future Computer Science student
 Developing production-grade products since I was 13
+```
 
 ---
 
@@ -30,6 +32,8 @@ Developing production-grade products since I was 13
 ---
 
 ## 🤝 Contributions
-Open source contributor. Passionate about backend development, DevOps, and algorithms.  
-
+```text
+Open source contributor.
+Passionate about backend development, DevOps, and algorithms.  
+```
 
