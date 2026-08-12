@@ -27,8 +27,11 @@
 ---
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyapinAlexey&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LyapinAlexey&layout=compact&theme=tokyonight)
+
+<p align="left">
+  <img src="https://vercel.app" alt="Alexey's GitHub stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
 
 ---
 
