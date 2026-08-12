@@ -19,6 +19,12 @@
 
 ---
 
+## 🔬 Research Interests
+* **Distributed Systems & Cloud Architecture:** Optimizing data persistence and low-latency caching strategies in edge computing.
+* **Database Engineering:** Studying query optimization, indexing internals, and probabilistic data structures.
+
+---
+
 ## 🔥 Projects
 - [Weather](https://github.com/LyapinAlexey/Weather) — Production-grade weather app (Flask, PostgreSQL, Docker, CI/CD, 96% tests).
 - Algorithms & Data Structures — Python implementations with unit tests.
@@ -26,12 +32,17 @@
 
 ---
 
-## 📊 Stats
+## ⚙️ Core Technical Stack & Proficiency
 
-<p align="left">
-  <img src="https://vercel.app" alt="Alexey's GitHub stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
+Instead of relying on heavy third-party tracking widgets, here is a direct map of my hands-on technical proficiency based on production deployment and test coverage:
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Architecture** | Python 3.13 • Flask • Gunicorn • REST APIs • OpenAPI (Swagger) |
+| **Data & Caching** | PostgreSQL • SQLAlchemy • Alembic migrations • Redis (Upstash) |
+| **DevOps & Infrastructure** | Docker • Docker Compose • Render • GitHub Actions (CI/CD) |
+| **Quality & Observability** | Pytest • Mocking • Codecov • Prometheus metrics • Structured JSON logging |
+| **Security & Linting** | Flask-Talisman • Ruff • Mypy (Strict Type Hinting) • Pre-commit hooks |
 
 ---
 
