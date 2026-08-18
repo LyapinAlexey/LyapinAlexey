@@ -41,7 +41,7 @@ Instead of relying on heavy third-party tracking widgets, here is a direct map o
 | **Backend & Architecture** | Python 3.13 • Flask • Gunicorn • REST APIs • OpenAPI (Swagger) |
 | **Data & Caching** | PostgreSQL • SQLAlchemy • Alembic migrations • Redis (Upstash) |
 | **DevOps & Infrastructure** | Docker • Docker Compose • Render • GitHub Actions (CI/CD) |
-| **Quality & Observability** | Pytest • Mocking • Codecov • Prometheus metrics • Structured JSON logging |
+| **Quality & Observability** | Pytest • k6 • Mocking • Codecov • Prometheus metrics • Structured JSON logging |
 | **Security & Linting** | Flask-Talisman • Ruff • Mypy (Strict Type Hinting) • Pre-commit hooks |
 
 ---
