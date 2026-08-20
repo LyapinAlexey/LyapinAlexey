@@ -26,7 +26,7 @@
 ---
 
 ## 🔥 Projects
-- [Weather](https://github.com/LyapinAlexey/Weather) — Production-grade weather app (Flask, PostgreSQL, Docker, CI/CD, 96% tests).
+- [Weather](https://github.com/LyapinAlexey/Weather) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, and more).
 - Algorithms & Data Structures — Python implementations with unit tests.
 - CLI Tools — Experiments with Python automation.
 
