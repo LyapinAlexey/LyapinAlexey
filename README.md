@@ -1,6 +1,6 @@
 # Alexey Lyapin
 
-### 🐍 Backend Developer | Python | Flask | Docker | SQLAlchemy | Pytest 
+### 🐍 Backend Developer | Python | Flask | Docker | Pytest | k6 | PostgreSQL | Redis  
 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 ![Flask](https://img.shields.io/badge/Flask-Framework-000000?logo=flask&logoColor=white)
