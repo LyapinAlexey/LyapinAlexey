@@ -3,9 +3,9 @@
 ### 🐍 Backend Developer | Python | Flask | Docker | SQLAlchemy | Pytest 
 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
-![Docker](https://img.shields.io/badge/docker-ready-green)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Coverage](https://img.shields.io/badge/tests-96%25-success)
+![Flask](https://img.shields.io/badge/Flask-Framework-000000?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/SSCI-Custom_License-green)
 
 ---
 
