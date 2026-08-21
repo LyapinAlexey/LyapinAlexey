@@ -41,7 +41,7 @@ Instead of relying on heavy third-party tracking widgets, here is a direct map o
 | **Backend & Architecture** | Python 3.13 • Flask • Gunicorn • REST APIs • OpenAPI (Swagger) |
 | **Data & Caching** | PostgreSQL • SQLAlchemy • Alembic migrations • Redis (Upstash) |
 | **DevOps & Infrastructure** | Docker • Docker Compose • Render • GitHub Actions (CI/CD) |
-| **Quality & Observability** | Pytest • k6 • Mocking • Codecov • Prometheus metrics • Structured JSON logging |
+| **Quality & Observability** | Pytest • k6 • Apshebuler • Mocking • Codecov • Prometheus metrics • Structured JSON logging |
 | **Security & Linting** | Flask-Talisman • Ruff • Mypy (Strict Type Hinting) • Pre-commit hooks |
 
 ---
@@ -58,6 +58,5 @@ Instead of relying on heavy third-party tracking widgets, here is a direct map o
 
 [![Email](https://img.shields.io/badge/Email-lehacomp16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lehacomp16@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@LyapinAlexey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LyapinAlexey)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-@LyapinAlex-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/79663103702)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexey%20Lyapin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lyapinalexey)
 [![GitHub](https://img.shields.io/badge/GitHub-LyapinAlexey-black?style=for-the-badge&logo=github)](https://github.com/LyapinAlexey)
