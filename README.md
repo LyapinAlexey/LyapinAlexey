@@ -16,6 +16,7 @@
 - ⚙️ Developing production‑grade products since I was 13
 - 💻 Passionate about backend development, CI/CD, and scalable systems
 ```
+I'm an active alpine skier (currently holding the 2nd adult sports rank and training for the 1st) and a full-time student at Gymnasium 1514. Due to intensive academic tracking and a demanding winter training schedule on the ski slopes, my development velocity temporarily transitions into a maintenance phase during the winter season.
 
 ---
 
@@ -26,7 +27,9 @@
 ---
 
 ## 🔥 Projects
-- [Weather](https://github.com/LyapinAlexey/Weather) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, and more).
+- [Weatherender](https://github.com/LyapinAlexey/Weatherender) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, and more). </br>
+[![GitHub stars](https://img.shields.io/github/stars/LyapinAlexey/Weatherender?style=social)](https://github.com/LyapinAlexey/Weatherender)
+[![GitHub forks](https://img.shields.io/github/forks/LyapinAlexey/Weatherender?style=social)](https://github.com/LyapinAlexey/Weatherender)
 - Algorithms & Data Structures — Python implementations with unit tests.
 - CLI Tools — Experiments with Python automation.
 
