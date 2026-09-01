@@ -27,9 +27,9 @@ I'm an active alpine skier (currently holding the 2nd adult sports rank and trai
 ---
 
 ## 🔥 Projects
-- [Weatherender](https://github.com/LyapinAlexey/Weatherender) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, and more). </br>
-[![GitHub stars](https://img.shields.io/github/stars/LyapinAlexey/Weatherender?style=social)](https://github.com/LyapinAlexey/Weatherender)
-[![GitHub forks](https://img.shields.io/github/forks/LyapinAlexey/Weatherender?style=social)](https://github.com/LyapinAlexey/Weatherender)
+- [Weatherender](https://github.com/Weatherender-foundation/Weatherender) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, and more). </br>
+[![GitHub stars](https://img.shields.io/github/stars/Weatherender-foundation/Weatherender?style=social)](https://github.com/Weatherender-foundation/Weatherender)
+[![GitHub forks](https://img.shields.io/github/forks/Weatherender-foundation/Weatherender?style=social)](https://github.com/Weatherender-foundation/Weatherender)
 - Algorithms & Data Structures — Python implementations with unit tests.
 - CLI Tools — Experiments with Python automation.
 
