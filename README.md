@@ -56,6 +56,13 @@ Instead of relying on heavy third-party tracking widgets, here is a direct map o
 
 ---
 
+## 🚀 GitHub Stats
+![Stats1](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LyapinAlexey&theme=dark)
+
+![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=LyapinAlexey&theme=dark)
+
+---
+
 ## 📬 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-lehacomp16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lehacomp16@gmail.com)
