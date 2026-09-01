@@ -62,3 +62,5 @@ Instead of relying on heavy third-party tracking widgets, here is a direct map o
 [![Telegram](https://img.shields.io/badge/Telegram-@LyapinAlexey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LyapinAlexey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexey%20Lyapin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lyapinalexey)
 [![GitHub](https://img.shields.io/badge/GitHub-LyapinAlexey-black?style=for-the-badge&logo=github)](https://github.com/LyapinAlexey)
+
+![Line](https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572) 
