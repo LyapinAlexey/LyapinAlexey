@@ -1,8 +1,8 @@
 # Alexey Lyapin
 
-### 🐍 Backend Developer | Founder of the Weatherender Foundation | Python | Flask | FastAPI | Docker | Pytest | k6 | PostgreSQL | Redis  
+### 🐍 Backend Developer | Python | Flask | FastAPI | Docker | Pytest | k6 | PostgreSQL | Redis | Founder of Weatherender Foundation |
 
-![Python](https://img.shields.io/badge/python-3.13-blue)
+![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=306998)
 ![Flask](https://img.shields.io/badge/Flask-Framework-000000?logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
 ![License](https://img.shields.io/badge/SSCI-Custom_License-green)
