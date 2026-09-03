@@ -1,6 +1,6 @@
 # Alexey Lyapin
 
-### 🐍 Backend Developer | Python | Flask | FastAPI | Docker | Pytest | k6 | PostgreSQL | Redis | Founder of Weatherender Foundation |
+### 🐍 Backend Developer | Python | Flask | FastAPI | Docker | Pytest | k6 | PostgreSQL | PyPi | Redis | Founder of Weatherender Foundation |
 
 ![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=306998)
 ![Flask](https://img.shields.io/badge/Flask-Framework-000000?logo=flask&logoColor=white)
@@ -26,7 +26,7 @@ I'm an active alpine skier (currently holding the 2nd adult sports rank and trai
 ---
 
 ## 🔥 Projects
-- [Weatherender](https://github.com/Weatherender-foundation/Weatherender) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, and more). </br>
+- [Weatherender](https://github.com/Weatherender-foundation/Weatherender) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, PyPi package, and more). [Web Demo here](https://weather-7icc.onrender.com/) </br>
 [![GitHub stars](https://img.shields.io/github/stars/Weatherender-foundation/Weatherender?style=social)](https://github.com/Weatherender-foundation/Weatherender)
 [![GitHub forks](https://img.shields.io/github/forks/Weatherender-foundation/Weatherender?style=social)](https://github.com/Weatherender-foundation/Weatherender)
 - Algorithms & Data Structures — Python implementations with unit tests.
