@@ -15,8 +15,9 @@
 - ⚙️ Developing production‑grade products since I was 13
 - 💻 Passionate about backend development, CI/CD, and scalable systems
 ```
-I'm an active alpine skier (currently holding the 2nd adult sports rank and training for the 1st) and a full-time student at Gymnasium 1514. Due to intensive academic tracking and a demanding winter training schedule on the ski slopes, my development velocity temporarily transitions into a maintenance phase during the winter season.
+I'm an active alpine skier (currently holding the 2nd adult sports rank and training for the 1st) and a full-time student at Gymnasium 1514. Due to intensive academic tracking and a demanding winter training schedule on the ski slopes, my development velocity temporarily transitions into a maintenance phase during the winter season. </br>
 
+#### 🌐 My site [here](https://lyapinalexey.github.io/)
 ---
 
 ## 🔬 Research Interests
