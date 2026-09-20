@@ -1,73 +1,111 @@
 # Alexey Lyapin
 
-### 🐍 Backend Developer | Python | Flask | FastAPI | Docker | Pytest | k6 | PostgreSQL | PyPi | Redis | Founder of Weatherender Foundation |
+### Founder of Weatherender Foundation • Open-source maintainer • Backend developer
 
 ![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=306998)
-![Flask](https://img.shields.io/badge/Flask-Framework-000000?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
-![License](https://img.shields.io/badge/SSCI-Custom_License-green)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
 ---
 
-## 💁 About me
-```text
-- 🎓 Future Computer Science student
-- ⚙️ Developing production‑grade products since I was 13
-- 💻 Passionate about backend development, CI/CD, and scalable systems
-```
-I'm an active alpine skier (currently holding the 2nd adult sports rank and training for the 1st) and a full-time student at Gymnasium 1514. Due to intensive academic tracking and a demanding winter training schedule on the ski slopes, my development velocity temporarily transitions into a maintenance phase during the winter season. </br>
+## About me
 
-#### 🌐 My site [here](https://lyapinalexey.github.io/)
----
+Backend developer building production-grade systems since I was 13, with a strong focus on architecture, performance, reliability, and practical engineering. I am preparing for a Computer Science degree and passionate about backend engineering, system design, and open source.
 
-## 🔬 Research Interests
-* **Distributed Systems & Cloud Architecture:** Optimizing data persistence and low-latency caching strategies in edge computing.
-* **Database Engineering:** Studying query optimization, indexing internals, and probabilistic data structures.
+I build tools that combine software engineering with real-world operational constraints: caching, resilience, observability, CI/CD, and cloud deployment. I also ski competitively and keep my development rhythm balanced with a demanding training schedule.
+
+- 🎓 Preparing for a Computer Science degree
+- ⚙️ Building production-grade systems since age 13
+- 🧠 Focused on backend architecture, APIs, infrastructure, and reliability
+- ❄️ Founder of Weatherender Foundation
+- 🌐 Personal site: [lyapinalexey.github.io](https://lyapinalexey.github.io/)
 
 ---
 
-## 🔥 Projects
-- [Weatherender](https://github.com/Weatherender-foundation/Weatherender) — Production-grade weather app (Flask, PostgreSQL, Redis, Docker, CI/CD, pytests, k6, PyPi package, and more). [Web Demo here](https://weather-7icc.onrender.com/) </br>
+## Selected work
+
+### Weatherender
+Production-grade weather intelligence platform built with Flask, FastAPI, PostgreSQL, Redis, Docker, CI/CD, Pytest, k6, and PyPI packaging.
+
+Features:
+- real-time weather and 3-day forecast
+- SSCI snow condition analysis for alpine use cases
+- web UI + CLI + async API in one product
+- Redis cache + graceful fallback logic
+- PostgreSQL persistence and Alembic migrations
+- Render + Supabase + Upstash production deployment
+- automated testing and k6 performance validation
+
+Links:
+- [GitHub](https://github.com/Weatherender-foundation/Weatherender)
+- [Live demo](https://weather-7icc.onrender.com/)
+- [PyPI](https://pypi.org/project/weatherender/)
+- [Docs](https://github.com/Weatherender-foundation/Weatherender#readme)
+
 [![GitHub stars](https://img.shields.io/github/stars/Weatherender-foundation/Weatherender?style=social)](https://github.com/Weatherender-foundation/Weatherender)
 [![GitHub forks](https://img.shields.io/github/forks/Weatherender-foundation/Weatherender?style=social)](https://github.com/Weatherender-foundation/Weatherender)
-- Algorithms & Data Structures — Python implementations with unit tests.
-- CLI Tools — Experiments with Python automation.
+
+### Other focused work
+- Python backend experiments and automation tools
+- algorithms and data structures practice
+- system design and reliability projects
+- API and infrastructure tooling for production environments
 
 ---
 
-## ⚙️ Core Technical Stack & Proficiency
+## Core capabilities
 
-Instead of relying on heavy third-party tracking widgets, here is a direct map of my hands-on technical proficiency based on production deployment and test coverage:
+### Languages
+Python • SQL • Bash • C • C++
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Architecture** | Python 3.13 • Flask • Gunicorn • REST APIs • OpenAPI (Swagger) |
-| **Data & Caching** | PostgreSQL • SQLAlchemy • Alembic migrations • Redis (Upstash) |
-| **DevOps & Infrastructure** | Docker • Docker Compose • Render • GitHub Actions (CI/CD) |
-| **Quality & Observability** | Pytest • k6 • Apshebuler • Mocking • Codecov • Prometheus metrics • Structured JSON logging |
-| **Security & Linting** | Flask-Talisman • Ruff • Mypy (Strict Type Hinting) • Pre-commit hooks |
+### Backend & APIs
+Flask • FastAPI • SQLAlchemy • Alembic • Pydantic v2 • Marshmallow • REST API design • OpenAPI / Swagger
 
----
+### Data & caching
+PostgreSQL • Redis • async data access • migrations • distributed cache strategies
 
-## 🤝 Contributions
+### Infrastructure & quality
+Docker • Docker Compose • GitHub Actions • Render • Prometheus • structured JSON logging • Pytest • k6 • Ruff • Mypy
 
-- 🛠 Open source contributor (Python, Docker, SQLAlchemy, PostgreSQL)
-- ⚙️ Focused on backend architecture and CI/CD pipelines
-- 🌍 Helping build scalable and reliable systems for the community
+### Current learning
+C++ • AWS • system design • distributed systems • cloud architecture
 
 ---
 
-## 🚀 GitHub Stats
-![Stats1](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LyapinAlexey&theme=dark)
+## Open source impact
 
-![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=LyapinAlexey&theme=dark)
+Founder of [Weatherender Foundation](https://github.com/Weatherender-foundation/Weatherender), with a focus on building practical, production-grade tools for real users.
+
+The project combines:
+- backend engineering
+- operational reliability
+- observability and testing
+- deployment and automation
+- developer experience and documentation
 
 ---
 
-## 📬 Connect with me
+## GitHub stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LyapinAlexey&theme=dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyapinAlexey&theme=dark)
+
+---
+
+## Connect
 
 [![Email](https://img.shields.io/badge/Email-lehacomp16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lehacomp16@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@LyapinAlexey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LyapinAlexey)
 [![GitHub](https://img.shields.io/badge/GitHub-LyapinAlexey-black?style=for-the-badge&logo=github)](https://github.com/LyapinAlexey)
+[![Website](https://img.shields.io/badge/Website-lyapinalexey.github.io-6A5ACD?style=for-the-badge)](https://lyapinalexey.github.io/)
 
-![Line](https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572) 
+---
+
+Built by Alexey Lyapin • [GitHub](https://github.com/LyapinAlexey) • [Website](https://lyapinalexey.github.io/)
