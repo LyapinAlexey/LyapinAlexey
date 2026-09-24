@@ -101,7 +101,7 @@ The project combines:
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-lehacomp16@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lehacomp16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alexey.lyapin.inbox-red?style=for-the-badge&logo=gmail)](mailto:Alexeylyapin.inbox)
 [![Telegram](https://img.shields.io/badge/Telegram-@LyapinAlexey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LyapinAlexey)
 [![GitHub](https://img.shields.io/badge/GitHub-LyapinAlexey-black?style=for-the-badge&logo=github)](https://github.com/LyapinAlexey)
 [![Website](https://img.shields.io/badge/Website-lyapinalexey.github.io-6A5ACD?style=for-the-badge)](https://lyapinalexey.github.io/)
