@@ -80,14 +80,17 @@ C++ • AWS • system design • distributed systems • cloud architecture
 
 ## Open source impact
 
-Founder of [Weatherender Foundation](https://github.com/Weatherender-foundation/Weatherender), with a focus on building practical, production-grade tools for real users.
+Founder of [Weatherender Foundation](https://github.com/weatherender-foundation/weatherender) and [Overclock Foundation](https://github.com/Overclock-foundation/Overclock), with a focus on building practical, production-grade tools for real users.
 
-The project combines:
+The projects combines:
 - backend engineering
 - operational reliability
 - observability and testing
 - deployment and automation
 - developer experience and documentation
+
+**Recognition:**
+* 🏅 My Kotlin/Android implementation from Weatherender was selected by [XERJ](https://github.com/xerj-org/xerj) (an AI-native search engine with 19k+ stars) for their public Corpus Hub as a reference for coding agents.
 
 ---
 
