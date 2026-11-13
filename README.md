@@ -82,7 +82,7 @@ C++ • AWS • system design • distributed systems • cloud architecture
 
 Founder of [Weatherender Foundation](https://github.com/weatherender-foundation/weatherender) and [Overclock Foundation](https://github.com/Overclock-foundation/Overclock), with a focus on building practical, production-grade tools for real users.
 
-The projects combines:
+The projects combine:
 - backend engineering
 - operational reliability
 - observability and testing
