@@ -11,7 +11,7 @@
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
-
+[![XERJ Corpus Hub](https://img.shields.io/badge/XERJ-Corpus_Hub_Contributor-blue?style=flat-square&logo=github)](https://github.com/xerj-org/xerj)
 ---
 
 ## About me
